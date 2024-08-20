@@ -2,7 +2,7 @@ Pasos para la instalación del repositorio y configuración del programa
 1.	Clonar el repositorio
 Abrimos Visual Studio Code y seleccionamos una carpeta vacia, luego abrimos el terminal (Ctrl+Ñ), y copiar el código:
 git clone https://github.com/Masv93/Lista-Estudiantes
-cd students
+cd Lista-Estudiantes-main
 
 2.	Instalar dependencias: 
 Asegúrate de tener Node.js y npm instalados, ejecuta el siguiente código en caso que no lo tengas:
